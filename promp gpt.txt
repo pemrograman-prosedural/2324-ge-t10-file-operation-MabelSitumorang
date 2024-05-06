@@ -1,0 +1,2 @@
+bagaimana cara menloading data dalam sebuah file txt ke dalam sebuah program sebagai input dalam bahasa C?
+does void need a parameter?
