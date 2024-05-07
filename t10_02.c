@@ -1,6 +1,6 @@
 // 12S23011 - MAbel Christoffel A.S
 // 12S23049 - Clarissa Manurung
-
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

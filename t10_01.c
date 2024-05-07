@@ -36,7 +36,7 @@ int main(int _argc, char **_argv)
       break;
     }
   }
-
+ 
   while (1)
   {
     sizee++;
